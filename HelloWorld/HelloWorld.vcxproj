@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="control_statement.c" />
     <ClCompile Include="gets01.c" />
     <ClCompile Include="HelloWorld.c" />
     <ClCompile Include="operator.c" />

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main_operator_application(void)
 {
 	/*int nData = 10;*/
 

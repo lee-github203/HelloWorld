@@ -27,5 +27,8 @@
     <ClCompile Include="operator_application.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="control_statement.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
